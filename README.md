@@ -1,3 +1,4 @@
 # myapp
-<img width="1224" height="442" alt="image" src="https://github.com/user-attachments/assets/459e6a5b-313a-41f5-a9cb-de1511de2bfa" />
+<img width="1220" height="419" alt="image" src="https://github.com/user-attachments/assets/296ad922-af54-4c68-8bd3-ba0cb1e283d5" />
+
 
